@@ -1,0 +1,52 @@
+h1 {
+	text-align: left;
+	font-family: "Arial";
+	font-size: 50px;
+	background-image: url("shatterexplosion.png");
+	color: #ffffff;
+	padding-top: 70px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin: 0px 0px 0px 0px;
+	text-shadow: 2px 2px 4px black;
+}
+
+body {
+	margin: 0px 0px 0px 0px;
+	background-color: white;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+	filter: opacity(50%);
+}
+
+.one {
+	width: 30%;
+	height: auto;
+	float: left;
+	background-color: #f9d07a;
+	margin-top: 4%;
+	margin-right: 4%;
+}
+.two {
+	width: 30%;
+	height: auto;
+	float: left;
+	background-color: #f9807a;
+	margin-top: 4%;
+	margin-right: 4%;
+}
+.three {
+	width: 30%;
+	height: auto;
+	float: left;
+	background-color: #4b9197;
+	margin-top: 4%;
+}
+
+
+
