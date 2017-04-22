@@ -1,14 +1,21 @@
-h1 {
-	text-align: left;
+h2 {
+	width: 30%;
+	height: auto;
+	float: left;
 	font-family: "Arial";
-	font-size: 50px;
-	background-image: url("shatterexplosion.png");
-	color: #ffffff;
-	padding-top: 70px;
-	padding-bottom: 20px;
-	padding-left: 10px;
-	margin: 0px 0px 0px 0px;
-	text-shadow: 2px 2px 4px black;
+	text-align: center;
+	font-size: 2vw;
+	background-color: #7c7c7c;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+h3 {
+	font-family: "Arial";
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 body {
@@ -16,7 +23,14 @@ body {
 	background-color: white;
 }
 
-img {
+.linkIcon {
+	width: 40px;
+	height: auto;
+	margin-right: 10px;
+	padding-bottom: 0px;
+}
+
+.imgIcon {
 	width: 100%;
 	height: auto;
 	display: block;
@@ -24,12 +38,24 @@ img {
 	filter: opacity(50%);
 }
 
+.headerStyle {
+	text-align: left;
+	font-family: "Arial";
+	font-size: 30px;
+	background-image: url("source/shatterexplosion.png");
+	color: #ffffff;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin: 0px 0px 0px 0px;
+	text-shadow: 2px 2px 4px black;
+}
+
 .one {
 	width: 30%;
 	height: auto;
 	float: left;
 	background-color: #f9d07a;
-	margin-top: 4%;
+	margin-bottom: 4%;
 	margin-right: 4%;
 }
 .two {
@@ -37,7 +63,7 @@ img {
 	height: auto;
 	float: left;
 	background-color: #f9807a;
-	margin-top: 4%;
+	margin-bottom: 4%;
 	margin-right: 4%;
 }
 .three {
@@ -45,7 +71,7 @@ img {
 	height: auto;
 	float: left;
 	background-color: #4b9197;
-	margin-top: 4%;
+	margin-bottom: 4%;
 }
 
 
