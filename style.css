@@ -66,15 +66,14 @@ body {
 	text-align: center;
 }
 
-.one {
+.three {
 	width: 30%;
 	height: auto;
 	float: left;
 	background-color: #f9d07a;
 	margin-bottom: 4%;
-	margin-right: 4%;
 }
-.two {
+.one {
 	width: 30%;
 	height: auto;
 	float: left;
@@ -82,12 +81,13 @@ body {
 	margin-bottom: 4%;
 	margin-right: 4%;
 }
-.three {
+.two {
 	width: 30%;
 	height: auto;
 	float: left;
 	background-color: #4b9197;
 	margin-bottom: 4%;
+	margin-right: 4%;
 }
 
 
